@@ -1,0 +1,27 @@
+[2023-11-17T02:01:05+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:01:05+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:01:08+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:01:12+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:01:21+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:01:37+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:02:09+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:03:14+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:03:14+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:03:15+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:03:17+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:03:22+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:03:30+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T02:03:46+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:16:57+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:16:57+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:17:00+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:17:04+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:17:12+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:17:29+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:18:01+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:19:05+08:00][error] [0]Call to a member function getText() on null
+[2023-11-17T17:19:07+08:00][error] [400]Bad Request: query is too old and response timeout expired or query ID is invalid
+[2023-11-17T17:19:09+08:00][error] [400]Bad Request: query is too old and response timeout expired or query ID is invalid
+[2023-11-17T17:19:12+08:00][error] [400]Bad Request: query is too old and response timeout expired or query ID is invalid
+[2023-11-17T17:19:18+08:00][error] [400]Bad Request: query is too old and response timeout expired or query ID is invalid
+[2023-11-17T17:19:28+08:00][error] [400]Bad Request: query is too old and response timeout expired or query ID is invalid
