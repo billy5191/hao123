@@ -18,7 +18,7 @@ nginx 1.2
 
 mysql 5.7
 
-购买联系客服TG:https://t.me/ismehee
+购买联系客服TG:[@ismehee](https://t.me/ismehee)
 
 ### 最新版更新
 
@@ -33,15 +33,15 @@ mysql 5.7
 进入到各个文件的README.md有搭建说明
 
 ### 演示信息
-后台地址:http://admin.hyperindex.tk/wocaole.php
+后台地址:[跳转链接](http://admin.hyperindex.tk/wocaole.php)
 
 用户名:admin
 
 密码:Qwe123123
 
-演示机器人:https://t.me/souhobot
+演示机器人:[@souhobot](https://t.me/souhobot)
 
-演示群组:https://t.me/souhoo
+演示群组:[@souhoo](https://t.me/souhoo)
 
 
 ### 更新说明
