@@ -43,6 +43,7 @@ mysql 5.7
 
 演示群组:[@souhoo](https://t.me/souhoo)
 
+trx租能量: [@feeeimbot](https://t.me/feeeimbot?start=UV9V)
 
 ### 更新说明
 2.6.19修复收录问题
