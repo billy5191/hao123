@@ -3,12 +3,6 @@
 return [
     // 默认磁盘
     'default' => env('filesystem.driver', 'local'),
-    // 磁盘列表
-    'disks'   => [
-        'local'  => [
-            'type' => 'local',
-            'root' => app()->getRootPath() . 'public/',
-        ],
         'public' => [
             // 磁盘类型
             'type'       => 'local',
