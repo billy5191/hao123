@@ -1,7 +1,15 @@
 ## TG搜索引擎索引机器人
-
+# TG索引源码
+# TG导航超级索引源码
+# telegram达摩索引，超级索引导航源码
+# TG群组导航收录系统源码 最新版
+# 触发关键词  telegram超级索引系统
+* 可以搜索相关的信息
+* telegram超级索引源代码
+* TG中文版电报搜索源码程序
+* 置顶广告、底部广告、进群广告关键词广告都可自行设置
+* 后台管理管理系统 一键化配置
 ### 目录说明
-
 -- admin    后台管理程序
 
 -- bot      机器人端webhook程序
@@ -10,7 +18,6 @@
 
 -- extend   php加密扩展
 
-
 ### 搭建所需要环境
 php   7.4
 
@@ -18,8 +25,8 @@ nginx 1.2
 
 mysql 5.7
 
-购买联系客服TG:[@ismehee](https://t.me/ismehee)
-
+购买联系客服TG:[@btt668](https://t.me/btt668)
+# 10万群组、频道 数据免费送  到手直接可运营赚钱
 ### 最新版更新
 
 1、新增搜索指数
@@ -28,22 +35,16 @@ mysql 5.7
 
 3、新增授权,深度加密,深度授权,网络授权，防止倒卖
 
-
-### 搭建教程
-进入到各个文件的README.md有搭建说明
-
 ### 演示信息
-后台地址:[跳转链接](http://admin.hyperindex.tk/wocaole.php)
+后台地址:[跳转链接](http://38.207.179.211/wocaole.php)
 
 用户名:admin
 
-密码:Qwe123123
+密码:aa113322
 
-演示机器人:[@souhobot](https://t.me/souhobot)
+演示机器人:[@baiso123_bot](https://t.me/baiso123_bot)
 
-演示群组:[@souhoo](https://t.me/souhoo)
-
-trx租能量: [@feeeimbot](https://t.me/feeeimbot?start=UV9V)
+# 10万群组、频道 数据免费送  
 
 ### 更新说明
 2.6.19修复收录问题
